@@ -1,1 +1,1 @@
-Sample code za demose
+Sample code za demose - VueJS basics
